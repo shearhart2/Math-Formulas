@@ -119,7 +119,7 @@ namespace exercise1A
         }
 
 
-        //New Method No Imaginary
+        //New Method No Imaginary 
         public static double NoImagination(double a, double b, double c)
         {
             return Math.Pow(b, 2) - 4 * a * c;
